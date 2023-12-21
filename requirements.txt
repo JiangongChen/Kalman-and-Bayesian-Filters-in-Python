@@ -4,4 +4,4 @@ notebook
 sympy
 numpy
 scipy
-matplotlib
+matplotlib==3.5
